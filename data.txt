@@ -1,0 +1,70 @@
+83
+electric sander
+hardware
+7
+57.98
+24
+power saw
+hardware
+18
+99.99
+7
+sledge hammer
+hardware
+11
+21.50
+12
+brown sugar
+grocery
+100
+2.50
+23
+wheat flour
+grocery
+50
+4.50
+77
+hammer
+hardware
+76
+11.99
+34
+fruit juice
+grocery
+20
+5.60
+68
+screwdriver
+hardware
+106
+6.99
+67
+salt
+grocery
+20
+2.30
+3
+wrench
+hardware
+34
+7.50
+47
+butter
+grocery
+10
+3.00
+56
+jig saw
+hardware
+21
+11.00
+86
+cookies
+grocery
+45
+12.50
+39
+lawn mower
+hardware
+3
+79.50
